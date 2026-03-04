@@ -3,6 +3,7 @@ dotenv.config();
 
 export async function askLLM(prompt: string) {
   const key = process.env.GROQ_API_KEY;
+  console.log("Generating Test cases!");
   if (!key) {
     throw new Error("Missing AI Key.");
   }
