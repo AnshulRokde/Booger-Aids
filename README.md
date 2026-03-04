@@ -1,4 +1,5 @@
 # Booger Aids
+![images](https://github.com/user-attachments/assets/beaed039-975d-4752-a7f4-ab4bc1f3ca78)
 
 **AI-powered CLI that generates unit tests for your code**
 
